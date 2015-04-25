@@ -1,0 +1,20 @@
+{
+  "name": "cloudwatch",
+  "version": "2.8.1",
+  "description": "utility to copy alarm from one region to another regions",
+  "author": "nghiank@hotmail.com",
+  "license": "MIT",
+  "devDependencies": {},
+  "main": "index",
+  "engines": {
+    "node": ">= 0.6.x"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "async": "^0.9.0",
+    "colors": "^1.0.3",
+    "commander": "^2.8.1"
+  }
+}
